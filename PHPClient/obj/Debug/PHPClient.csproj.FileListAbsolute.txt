@@ -1,0 +1,45 @@
+C:\Users\Huy\source\repos\PHPClient\PHPClient\bin\Debug\PHPClient.exe.config
+C:\Users\Huy\source\repos\PHPClient\PHPClient\bin\Debug\PHPClient.exe
+C:\Users\Huy\source\repos\PHPClient\PHPClient\bin\Debug\PHPClient.pdb
+C:\Users\Huy\source\repos\PHPClient\PHPClient\obj\Debug\PHPClient.csprojAssemblyReference.cache
+C:\Users\Huy\source\repos\PHPClient\PHPClient\obj\Debug\PHPClient.Form1.resources
+C:\Users\Huy\source\repos\PHPClient\PHPClient\obj\Debug\PHPClient.Properties.Resources.resources
+C:\Users\Huy\source\repos\PHPClient\PHPClient\obj\Debug\PHPClient.csproj.GenerateResource.cache
+C:\Users\Huy\source\repos\PHPClient\PHPClient\obj\Debug\PHPClient.csproj.CoreCompileInputs.cache
+C:\Users\Huy\source\repos\PHPClient\PHPClient\obj\Debug\PHPClient.exe
+C:\Users\Huy\source\repos\PHPClient\PHPClient\obj\Debug\PHPClient.pdb
+C:\Users\Huy\source\repos\PHPClient\PHPClient\bin\Debug\MySql.Data.dll
+C:\Users\Huy\source\repos\PHPClient\PHPClient\bin\Debug\MySql.Data.xml
+C:\Users\Huy\source\repos\PHPClient\PHPClient\obj\Debug\PHPClient.csproj.CopyComplete
+C:\Users\Huy\source\repos\PHPClient\PHPClient\obj\Debug\PHPClient.Form2.resources
+C:\Users\Huy Nguyen\Downloads\PHPClient(C#)\PHPClient\bin\Debug\PHPClient.exe.config
+C:\Users\Huy Nguyen\Downloads\PHPClient(C#)\PHPClient\bin\Debug\PHPClient.exe
+C:\Users\Huy Nguyen\Downloads\PHPClient(C#)\PHPClient\bin\Debug\PHPClient.pdb
+C:\Users\Huy Nguyen\Downloads\PHPClient(C#)\PHPClient\bin\Debug\MySql.Data.xml
+C:\Users\Huy Nguyen\Downloads\PHPClient(C#)\PHPClient\obj\Debug\PHPClient.csprojAssemblyReference.cache
+C:\Users\Huy Nguyen\Downloads\PHPClient(C#)\PHPClient\obj\Debug\PHPClient.Form1.resources
+C:\Users\Huy Nguyen\Downloads\PHPClient(C#)\PHPClient\obj\Debug\PHPClient.Form2.resources
+C:\Users\Huy Nguyen\Downloads\PHPClient(C#)\PHPClient\obj\Debug\PHPClient.Properties.Resources.resources
+C:\Users\Huy Nguyen\Downloads\PHPClient(C#)\PHPClient\obj\Debug\PHPClient.csproj.GenerateResource.cache
+C:\Users\Huy Nguyen\Downloads\PHPClient(C#)\PHPClient\obj\Debug\PHPClient.csproj.CoreCompileInputs.cache
+C:\Users\Huy Nguyen\Downloads\PHPClient(C#)\PHPClient\obj\Debug\PHPClient.csproj.CopyComplete
+C:\Users\Huy Nguyen\Downloads\PHPClient(C#)\PHPClient\obj\Debug\PHPClient.exe
+C:\Users\Huy Nguyen\Downloads\PHPClient(C#)\PHPClient\obj\Debug\PHPClient.pdb
+C:\Users\Huy Nguyen\Downloads\PHPClient(C#)\PHPClient\obj\Debug\PHPClient.Weekly.resources
+C:\Users\Huy Nguyen\Downloads\PHPClient(C#)\PHPClient\obj\Debug\PHPClient.Monthly.resources
+C:\Users\Huy\Documents\PHPClient(C#)\PHPClient\bin\Debug\PHPClient.exe.config
+C:\Users\Huy\Documents\PHPClient(C#)\PHPClient\bin\Debug\PHPClient.exe
+C:\Users\Huy\Documents\PHPClient(C#)\PHPClient\bin\Debug\PHPClient.pdb
+C:\Users\Huy\Documents\PHPClient(C#)\PHPClient\bin\Debug\MySql.Data.dll
+C:\Users\Huy\Documents\PHPClient(C#)\PHPClient\bin\Debug\MySql.Data.xml
+C:\Users\Huy\Documents\PHPClient(C#)\PHPClient\obj\Debug\PHPClient.csprojAssemblyReference.cache
+C:\Users\Huy\Documents\PHPClient(C#)\PHPClient\obj\Debug\PHPClient.Form1.resources
+C:\Users\Huy\Documents\PHPClient(C#)\PHPClient\obj\Debug\PHPClient.Form2.resources
+C:\Users\Huy\Documents\PHPClient(C#)\PHPClient\obj\Debug\PHPClient.Monthly.resources
+C:\Users\Huy\Documents\PHPClient(C#)\PHPClient\obj\Debug\PHPClient.Properties.Resources.resources
+C:\Users\Huy\Documents\PHPClient(C#)\PHPClient\obj\Debug\PHPClient.Weekly.resources
+C:\Users\Huy\Documents\PHPClient(C#)\PHPClient\obj\Debug\PHPClient.csproj.GenerateResource.cache
+C:\Users\Huy\Documents\PHPClient(C#)\PHPClient\obj\Debug\PHPClient.csproj.CoreCompileInputs.cache
+C:\Users\Huy\Documents\PHPClient(C#)\PHPClient\obj\Debug\PHPClient.csproj.CopyComplete
+C:\Users\Huy\Documents\PHPClient(C#)\PHPClient\obj\Debug\PHPClient.exe
+C:\Users\Huy\Documents\PHPClient(C#)\PHPClient\obj\Debug\PHPClient.pdb
